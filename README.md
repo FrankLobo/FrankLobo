@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Frank Lobo</h1>
 <h3 align="center">A FullStack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franklobo&label=Profile%20views&color=d36922&style=plastic" alt="franklobo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franklobo&label=Profile%20views&color=3a109e&style=flat" alt="franklobo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklobo" alt="franklobo" /></a> </p>
 
 - 📫 How to reach me **frankeloboq@gmail.com**
 
@@ -33,3 +35,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklobo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="franklobo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklobo&show_icons=true&theme=dracula&locale=en" alt="franklobo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklobo&theme=dark" alt="franklobo" /></p>
