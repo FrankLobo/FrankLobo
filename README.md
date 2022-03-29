@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQGs4UnyS1TT0A/profile-displaybackgroundimage-shrink_350_1400/0/1648571422803?e=1654128000&v=beta&t=vXnupKE1nvjITNhvHB79JeNKyIPGyaiDWajyVY0VE6Q)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklobo&theme=dracula&row=1&margin-w=15" alt="franklobo" /></a>
-</p>
-
 - 📫 How to reach me **frankeloboq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,3 +36,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklobo&theme=dracula&row=1&margin-y=15" alt="franklobo" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklobo&theme=dracula&row=1&margin-w=15" alt="franklobo" /></a>
+</p>
